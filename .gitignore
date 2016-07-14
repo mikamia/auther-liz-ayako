@@ -1,3 +1,4 @@
 node_modules/
 bower_components/
 server/_db.js
+server/auth
